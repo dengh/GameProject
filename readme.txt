@@ -4,7 +4,6 @@ Game engine inspired by https://www.binpress.com/tutorial/creating-a-city-buildi
 
 TODO LIST:
 	1. Rewrite the texture manager, see *
-	2. Fix resizing of the window.
 	
 	
 	
